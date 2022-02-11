@@ -4,8 +4,8 @@
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-    background: black;
-    color: white;
+    background: rgb(197, 197, 197);
+    color: rgb(122, 122, 122);
     height: 50px;
 }
 
